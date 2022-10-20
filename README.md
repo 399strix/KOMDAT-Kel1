@@ -15,7 +15,7 @@ Ghost merupakan salah satu platform Content Management System seperti Wordpress 
 1.	Instal instance
 2.	Root.
  ```
-    $ sudo service apache2 restart
+$ sudo service apache2 restart
  ```
 3.	Membuat user dan loginn ssh 
 ```
@@ -68,11 +68,6 @@ $http://34.101.93.101
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - membuat backup konten
 Pada menu Labs yang bisa kita akses dengan menekan tombol roda gigi dibawah, terdapat menu Import, Export dan Delete Content. Menu Export digunakan untuk membackup konten secara manual. Meskipun backup dilakukan dengan manual, setidaknya konten yang dibuat bisa dikembalikan sewaktu-waktu terjadi hal yang tidak diinginkan.
-
-
-# Otomatisasi (opsional)
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 # Cara Pemakaian
