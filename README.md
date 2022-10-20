@@ -44,8 +44,16 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 - Tampilan aplikasi web
 <h1 align="center"><img src="https://user-images.githubusercontent.com/86305950/196953394-700c688b-5e91-4e7a-9aa5-c8ed6461af29.png"></h1>
+<h2 align="center">Halaman Utama</h2>
+
 - Fungsi-fungsi utama
+1. Membuat konten
+![image](https://user-images.githubusercontent.com/86305950/196955987-d9314a36-c8e6-46df-b42f-68bafedc0e61.png)
+2. Memanajemen Konten
+3. Mempromosikan berita, layanan, produk dan berbagai hal sejenis.
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+
+
 
 
 # Pembahasan
