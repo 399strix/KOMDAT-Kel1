@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://w7.pngwing.com/pngs/236/590/png-transparent-logo-call-of-duty-ghosts-car-ghosts-emblem-head-ghosts-thumbnail.png"></h1>
+<h1 align="center"><img src="https://i.pinimg.com/564x/e9/9e/d1/e99ed1d4a8bd897c2774a8756faced11.jpg"></h1>
 # Aplikasi Web "XYZ"
 
 
