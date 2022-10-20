@@ -43,7 +43,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 # Cara Pemakaian
 
 - Tampilan aplikasi web
-<h1 align="center"><img src="https://prnt.sc/wdgPpe_Gubul"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/86305950/196953394-700c688b-5e91-4e7a-9aa5-c8ed6461af29.png"></h1>
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
