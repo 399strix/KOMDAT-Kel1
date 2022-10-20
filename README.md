@@ -130,5 +130,7 @@ Kelemahan Ghost :
 # Referensi
 
 https://kinsta.com/knowledgebase/content-management-system/
+
 https://idcloudhost.com/ghost-cms-adalah/
+
 https://ezy.co.id/ghost-cms-pengertian-fitur-keunggulan-dan-cara-install-ghost-di-hosting/
