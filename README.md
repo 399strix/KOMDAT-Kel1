@@ -1,19 +1,21 @@
 <h1 align="center"><img src="https://i.pinimg.com/564x/e9/9e/d1/e99ed1d4a8bd897c2774a8756faced11.jpg"></h1>
 <h2 align="center">Aplikasi Web "GHOST"</h2>
 
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
-## Sekilas Tentang
+# Sekilas Tentang
 
 Deskripsi singkat tentang aplikasi tsb.
 
 
-## Instalasi
+# Instalasi
 
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 
 
-## Konfigurasi (opsional)
+# Konfigurasi (opsional)
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file
@@ -26,7 +28,7 @@ Plugin untuk fungsi tambahan
 - dll
 
 
-##  Maintenance (opsional)
+#  Maintenance (opsional)
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
@@ -34,19 +36,19 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-## Otomatisasi (opsional)
+# Otomatisasi (opsional)
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
-## Cara Pemakaian
+# Cara Pemakaian
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
 
 
-## Pembahasan
+# Pembahasan
 
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
@@ -54,6 +56,6 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Bandingkan dengan aplikasi web lain yang sejenis
 
 
-## Referensi
+# Referensi
 
 Cantumkan tiap sumber informasi yang anda pakai.
