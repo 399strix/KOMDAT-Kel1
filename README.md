@@ -50,6 +50,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 1. Membuat konten
 ![image](https://user-images.githubusercontent.com/86305950/196956752-fa07315a-70b6-4fb7-be08-a736c41d95c1.png)
 2. Memanajemen Konten
+![image](https://user-images.githubusercontent.com/86305950/196956938-3fc11ca4-8c80-4bbe-84ca-d018c385de2b.png)
 3. Mempromosikan berita, layanan, produk dan berbagai hal sejenis.
 - Contoh konten yang sudah di-_publish_
 ![image](https://user-images.githubusercontent.com/86305950/196955987-d9314a36-c8e6-46df-b42f-68bafedc0e61.png)
