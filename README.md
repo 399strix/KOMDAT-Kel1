@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://i.pinimg.com/564x/e9/9e/d1/e99ed1d4a8bd897c2774a8756faced11.jpg"></h1>
 <h2 align="center">Aplikasi Web "GHOST"</h2>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+<span align="center">[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi) </span>
 
 # Sekilas Tentang
 
