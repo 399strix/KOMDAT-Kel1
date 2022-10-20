@@ -70,6 +70,7 @@ digunakan untuk menjadwalkan konten agar dapat tampil pada waktu tertentu secara
 berisi pengaturan mengenai konten yang akan dibuat.
 
 ![image](https://user-images.githubusercontent.com/86305950/196967938-cfd0fa4d-f663-47fe-8697-d04e49cc905e.png)
+
 8.	Menu Publish
 digunakan untuk melakukan penerbitan konten. Disini juga bisa diatur tentang kepada siapa konten akan diterbitkan serta penentuan jadwal kapan konten akan diterbitkan.
 ![image](https://user-images.githubusercontent.com/86305950/196967962-7fece3eb-5e79-4c8c-b094-d6991ef990f7.png)
