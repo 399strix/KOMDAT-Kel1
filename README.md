@@ -48,12 +48,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 - Fungsi-fungsi utama
 1. Membuat konten
-![image](https://user-images.githubusercontent.com/86305950/196955987-d9314a36-c8e6-46df-b42f-68bafedc0e61.png)
+![image](https://user-images.githubusercontent.com/86305950/196956289-824c0e3c-790a-4d02-8a48-dac4d00752c2.png)
 2. Memanajemen Konten
 3. Mempromosikan berita, layanan, produk dan berbagai hal sejenis.
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
-
-
+- Contoh konten yang sudah di-_publish_
+![image](https://user-images.githubusercontent.com/86305950/196955987-d9314a36-c8e6-46df-b42f-68bafedc0e61.png)
 
 
 # Pembahasan
