@@ -64,12 +64,8 @@ disini konten yang masih belum selesai/ belum siap ditampilkan disimpan.
 
 6.	Menu Scheduled
 digunakan untuk menjadwalkan konten agar dapat tampil pada waktu tertentu secara otomatis
-![image](https://user-images.githubusercontent.com/86305950/196967915-d3880c0b-accc-497c-8fae-0c62feb1df75.png)
-
-
-
-
-
+  ![image](https://user-images.githubusercontent.com/86305950/196967915-d3880c0b-accc-497c-8fae-0c62feb1df75.png)
+  
 7.	Post Settings 
 berisi pengaturan mengenai konten yang akan dibuat.
 ![image](https://user-images.githubusercontent.com/86305950/196967938-cfd0fa4d-f663-47fe-8697-d04e49cc905e.png)
