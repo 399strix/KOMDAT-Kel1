@@ -129,4 +129,6 @@ Kelemahan Ghost :
 
 # Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+https://kinsta.com/knowledgebase/content-management-system/
+https://idcloudhost.com/ghost-cms-adalah/
+https://ezy.co.id/ghost-cms-pengertian-fitur-keunggulan-dan-cara-install-ghost-di-hosting/
