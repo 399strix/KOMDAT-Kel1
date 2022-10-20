@@ -5,7 +5,7 @@
 
 # Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
+Ghost merupakan salah satu platform Content Management System seperti Wordpress yang bersifat open source. Seperti Wordpress, Ghost digunakan untuk membuat, mempromosikan dan mengelola konten dengan interface yang lebih modern, sederhana dan intuitif.
 
 
 # Instalasi
