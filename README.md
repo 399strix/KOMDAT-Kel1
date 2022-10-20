@@ -13,18 +13,55 @@ Ghost merupakan salah satu platform Content Management System seperti Wordpress 
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI
 1.	Instal instance
-2.	Root ___ $sudo su
-3.	Membuat user dan loginn ssh  ___ $adduser komdat
-4.	Mengubah user menjadi superuser serta login sebagai user____ $usermod -aG sudo komdat , su -komdat
-5.	Menginstal dan memastikan package yang terbaru sudah terinstal ____ $sudo apt get update, sudo apt get upgrade
-6.	Instal king server “NGINX”, dan follow ‘NGINX’ ___ $sudo apt-get install nginx, sudo ufw allows ‘Nginx Full’
-7.	Install MySql ___ $sudo apt-get install mysql-server
-8.	Install framework Node.js ____ $curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash, $sudo apt-get install -y node.js
-9.	Install ghost client ___ $sudo npm install ghost-cli@latest -g 
-10.	Create directory ___ $sudo mkdir -p /var/www/komdat-ghost, $sudo chown komdat:komdat /var/www/komdat-ghost, $cd /var/www/komdat-ghost
-11.	Install process __ $ghost install
-12.	Set blog URL dan set up system ___ $http://34.101.93.101
-
+2.	Root.
+ ```
+    $ sudo service apache2 restart
+ ```
+3.	Membuat user dan loginn ssh 
+```
+$adduser komdat
+```
+4.	Mengubah user menjadi superuser serta login sebagai user
+```
+$usermod -aG sudo komdat , su -komdat
+```
+5.	Menginstal dan memastikan package yang terbaru sudah terinstal 
+```
+$sudo apt get update
+$sudo apt get upgrade
+```
+6.	Instal king server “NGINX”, dan follow ‘NGINX’
+```
+$sudo apt-get install nginx
+$sudo ufw allows ‘Nginx Full’
+```
+7.	Install MySql 
+```
+$sudo apt-get install mysql-server
+```
+8.	Install framework Node.js
+```
+$curl -sL https://deb.nodesource.com/setup_16.x | sudo -E bash
+$sudo apt-get install -y node.js
+```
+9.	Install ghost client 
+```
+$sudo npm install ghost-cli@latest -g 
+```
+10.	Create directory 
+```
+$sudo mkdir -p /var/www/komdat-ghost
+$sudo chown komdat:komdat /var/www/komdat-ghost
+$cd /var/www/komdat-ghost
+```
+11.	Install process 
+```
+$ghost install
+```
+12.	Set blog URL dan set up system 
+```
+$http://34.101.93.101
+```
 
 #  Maintenance (opsional)
 
