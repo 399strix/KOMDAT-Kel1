@@ -26,26 +26,11 @@ Ghost merupakan salah satu platform Content Management System seperti Wordpress 
 12.	Set blog URL dan set up system ___ $http://34.101.93.101
 
 
-
-# Konfigurasi (opsional)
-
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
-
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
-
-
 #  Maintenance (opsional)
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
+- membuat backup konten
+Pada menu Labs yang bisa kita akses dengan menekan tombol roda gigi dibawah, terdapat menu Import, Export dan Delete Content. Menu Export digunakan untuk membackup konten secara manual. Meskipun backup dilakukan dengan manual, setidaknya konten yang dibuat bisa dikembalikan sewaktu-waktu terjadi hal yang tidak diinginkan.
 
 
 # Otomatisasi (opsional)
