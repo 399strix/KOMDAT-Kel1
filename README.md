@@ -105,6 +105,22 @@ menambahkan dan menampilkan daftar pengguna yang akan berlangganan atau sudah be
 
 # Pembahasan
 
+Content Management System merupakan sebuah platform sistem yang digunakan untuk membantu penggunanya membuat, manajemen dan memodifikasi konten pada sebuah website tanpa membutuhkan keahlian teknis tertentu. Sederhananya, CMS merupakan alat untuk membuat website tanpa melakukan koding. 
+
+Saat ini, sudah banyak CMS populer telah hadir seperti Wordpress, Magento, Joomla, Drupla, Wix dan Ghost. Ghost sendiri merupakan CMS open-source yang dibangun menggunakan Node.js berdasarkan bahasa pemrograman Javascript.
+
+Berikut keunggulan Ghost :
+1.	Interface Editor Minimalis dan Intuitif
+2.	Bisa Self-Hosted
+3.	Performa Dapat Diandalkan
+4.	Fitur Search Engine Optimization Yang Lengkap
+5.	Ringan dan Fleksibel
+
+Kelemahan Ghost :
+1.	Terlalu Minimalist
+2.	Hosting Mandiri Ghost Cukup Sulit
+3.	Backup Web Rumit
+
 - Pendapat anda tentang aplikasi web ini
     - kelebihan
     - kekurangan
